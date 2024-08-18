@@ -1,1 +1,2 @@
-https://hiringminesaylani.netlify.app
+https://hiringmine-zaid.netlify.app
+
